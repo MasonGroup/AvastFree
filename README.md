@@ -1,11 +1,11 @@
-## Software | [Download](https://github.com/UniiemStudio/CTFever-Premium-Service/releases/download/test/Gh-Installer.zip)
-
-Create for PC
-
-# Showcase
-
-![showcase](https://i.imgur.com/Md8abXD.png)
-
-## License
-
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+# SuperBooRat
+This tool is characterized by its simplicity and speed
+------------------------------------------------------
+There is an option to disable Windows Defender, which disables protection completely
+---
+Payload encryption prevents anyone from accessing your host and port
+---
+```sh
+"We hereby declare that we disclaim any liability for any improper use of the software. Thank you for your understanding."
+```
+---
